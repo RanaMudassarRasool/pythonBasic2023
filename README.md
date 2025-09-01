@@ -7,9 +7,9 @@
 
 **Chapter 2 - Variables and Data Types**
 
-- Variables and assignment
-- Integers, floats, strings
-- Type conversion
+1. Variables and assignment
+2. Integers, floats, strings
+3. Type conversion
 
 **Chapter 3 - Operators and Expressions**
 
